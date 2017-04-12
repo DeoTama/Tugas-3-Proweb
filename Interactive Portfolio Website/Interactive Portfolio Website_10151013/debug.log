@@ -1,0 +1,6 @@
+[0328/213000.842:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\temp: Access is denied. (0x5)
+[0328/213000.896:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: The system cannot find the file specified. (0x2)
+[0328/213000.919:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0412/150543.170:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[0412/150543.217:ERROR:registration_protocol_win.cc(60)] WaitNamedPipe: The system cannot find the file specified. (0x2)
+[0412/150543.233:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
